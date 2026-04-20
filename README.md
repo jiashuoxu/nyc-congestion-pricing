@@ -2,13 +2,7 @@
 
 A data analysis and visualization project examining Year-1 outcomes of New York City's **Central Business District Tolling Program (CBDTP)** — the first cordon-based urban congestion pricing system in the United States, launched January 5, 2025.
 
----
 
-## Project Website
-
-The full interactive website is available at `index.html` — open it in any browser.
-
----
 
 ## Python Analysis (`app.py`)
 
